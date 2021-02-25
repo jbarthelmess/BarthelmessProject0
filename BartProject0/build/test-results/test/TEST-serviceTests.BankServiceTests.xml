@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="serviceTests.BankServiceTests" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-02-24T16:03:22" hostname="DESKTOP-T6NR4LV" time="18.11">
+  <properties/>
+  <testcase name="create_client()" classname="serviceTests.BankServiceTests" time="0.45"/>
+  <testcase name="create_client_2()" classname="serviceTests.BankServiceTests" time="0.002"/>
+  <testcase name="create_account()" classname="serviceTests.BankServiceTests" time="1.757"/>
+  <testcase name="create_account_2()" classname="serviceTests.BankServiceTests" time="0.949"/>
+  <testcase name="get_client()" classname="serviceTests.BankServiceTests" time="0.627"/>
+  <testcase name="get_client_2()" classname="serviceTests.BankServiceTests" time="0.6"/>
+  <testcase name="get_all_clients()" classname="serviceTests.BankServiceTests" time="0.302"/>
+  <testcase name="get_account()" classname="serviceTests.BankServiceTests" time="0.627"/>
+  <testcase name="get_account_2()" classname="serviceTests.BankServiceTests" time="0.647"/>
+  <testcase name="get_account_3()" classname="serviceTests.BankServiceTests" time="1.556"/>
+  <testcase name="get_accounts_in_range()" classname="serviceTests.BankServiceTests" time="2.336"/>
+  <testcase name="update_client()" classname="serviceTests.BankServiceTests" time="0.895"/>
+  <testcase name="update_account()" classname="serviceTests.BankServiceTests" time="3.4"/>
+  <testcase name="update_account_2()" classname="serviceTests.BankServiceTests" time="1.222"/>
+  <testcase name="delete_account()" classname="serviceTests.BankServiceTests" time="0.914"/>
+  <testcase name="delete_account_2()" classname="serviceTests.BankServiceTests" time="0.261"/>
+  <testcase name="delete_client_not_in_database()" classname="serviceTests.BankServiceTests" time="0.625"/>
+  <testcase name="delete_client()" classname="serviceTests.BankServiceTests" time="0.923"/>
+  <system-out><![CDATA[Name cannot be empty
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
